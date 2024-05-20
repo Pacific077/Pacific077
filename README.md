@@ -20,8 +20,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pacific077&show_icons=true&locale=en" alt="pacific077" />
 </div>
 <br/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacific077" alt="pacific077" />
-</p>
-
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pacific077)
 
