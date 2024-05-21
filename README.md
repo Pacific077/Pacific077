@@ -20,5 +20,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pacific077&show_icons=true&locale=en" alt="pacific077" />
 </div>
 <br/>
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pacific077)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pacific077)](https://git.io/streak-stats)
 
