@@ -20,5 +20,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pacific077&show_icons=true&locale=en" alt="pacific077" />
 </div>
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pacific077)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pacific077&theme=nightfox&border_radius=4.1" alt="GitHub Streak" /></a>
 
